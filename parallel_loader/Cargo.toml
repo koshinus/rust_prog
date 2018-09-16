@@ -1,0 +1,7 @@
+[package]
+name = "parallel_loader"
+version = "0.1.0"
+authors = ["k0shinus <vergile@yandex.ru>"]
+
+[dependencies]
+reqwest = "0.8.0"
